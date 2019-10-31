@@ -1,0 +1,31 @@
+It is a set of control-based technologies & policies adapted to stick to regulatory compliances, rules & protect data application and cloud technology infrastructure.
+With the increase in the number of organizations using cloud technology for a data operation, proper security and other potentially vulnerable areas became a priority for organizations contracting with cloud providers.
+Cloud computing security processes the security control in cloud & provides customer data security, privacy & compliance with necessary regulations. 
+
+A data breach is confirmation of an incident wherein the sensitive, confidential or the protected data is accessed in an unauthorized manner. The violation may include getting access to personal information, trade secrets, and any other products/materials/information that is not intended for public release, or the intellectual properties.
+
+It may be due to a simple human error or an intended attack. Whatever the reason may be, when the system is vulnerable or a poor practice standard is set, then the property is liable for attacks.  
+
+api:
+Cloud APIs are the programming interfaces embedded into the cloud system. It automates the several tasks and makes the job easier.
+When an API is incorporated, the issues like identity, authentication, authorization, sessions, username, certificates, OAuth, Custom Authentic scheme, API key and, etc., must be addressed.
+While choosing the cloud service provider, the documentation of their API must be checked. You must hire a penetration tester to test the API provided and same measures must be taken while developing own APIs to ward-off security bugs if any.  
+
+VMs:
+To be very simple, a Virtual Machine is an Operating System which is installed on a computer using a Virtualization Software. Virtualization software (Oracle VM VirtualBox) virtualizes the hardware components and runs the OS on top of that.
+So, how does a Virtual Machine work on the cloud?
+The cloud providers like Azure and AWS buy high configuration machines and install multiple virtual machines in a single physical system. A single system can contain a Linux OS, Windows OS, or a Mac OS.
+When you choose a Virtual Machine service from a cloud provider (E.g. Azure), you basically rent a dedicated virtual machine on a shared computer. That is how Cloud providers provide you with Virtual Machines.
+
+
+The shortfalls in the virtual machines could be exploited for vulnerabilities.
+The virtual machines vulnerability includes hypervisors, VM hopping, virtual machine-based rootkits, denial of service attacks, data leakage, and more.   
+The well-known existing vulnerabilities in the virtual machines include buffer overflows, denial of service, execution of malicious codes, and gain privileges.
+Another known vulnerability in the VMware products includes the path traversal vulnerability. If it gets exploited, the attacker will be able to control the guest VM image, break the access, disrupt the flow if the VM host is not disabled.
+
+cloud service hijacking:
+When a cloud account gets hijacked or stolen, the attacker may impersonate the account owner to steal the information, conduct unauthorized or any unwanted activity that would lead to compromising of the trust the company has earned.
+Though the cloud has numerous benefits, it paves way for the cybercriminals as most of the data are housed in one place. The risks on hijack are more prevalent.
+
+Loss of data:
+Apart from the malicious attacks, the data could be lost permanently owing to accidental deletions, a physical catastrophe like the fire or the earthquake. It is recommended to follow the best practices for preventing hamper in business continuity and disaster recovery.    
